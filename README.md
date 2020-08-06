@@ -35,7 +35,7 @@
 
 ---
 
-### <img align="left" alt="YouTube" width="26px" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/103934860/original/d2a1463c6c8a6ec4d258f698ae7d539a9129cf88/create-your-youtube-channel-art-and-logo.png" />Latest YouTube Videos
+### <img align="left" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
 - [Add Dot Commands to your Minecraft Client](https://www.youtube.com/watch?v=wdsxKPLpoL4)
