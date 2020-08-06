@@ -49,7 +49,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsnebulalol&show_icons=true&hide_border=true" />
+[![Nebula's github stats](https://github-readme-stats.vercel.app/api?username=itsnebulalol)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://nebulayt.xyz
 [youtube]: https://www.youtube.com/channel/UCE86Qx7We3sZjgqMrX2yfyg
