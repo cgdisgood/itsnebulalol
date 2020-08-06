@@ -1,10 +1,10 @@
 ### Hi there, I'm [Nebula][youtube]! 👋
 
 ## I'm a YouTuber, Gamer, and Developer!
-- <img align="left" alt="Cobalt Client" width="26px" src="http://vignette2.wikia.nocookie.net/hexxit/images/c/cb/Cobalt_Ingot_ig.png/revision/latest?cb=20140316153040" />I’m currently working on Cobalt Minecraft Client
-- <img align="left" alt="Coding" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />I’m currently learning Java, Unity, and more!
-- <img align="left" alt="GUI" width="26px" src="http://aux2.iconspalace.com/uploads/448592549.png" />I’m trying to make GUIs in Java Games
-- <img align="left" alt="Guitar" width="26px" src="https://image.flaticon.com/icons/png/512/355/355081.png" />Fun fact: I like to play guitar!
+- 🔭 I’m currently working on Cobalt Minecraft Client
+- 🌱 I’m currently learning Java, Unity, and more!
+- 🤔 I’m trying to make good GUIs in Minecraft Coder Pack
+- ⚡ Fun fact: I like to play guitar!
 
 ### My stuff:
 
