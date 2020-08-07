@@ -31,6 +31,7 @@
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
 <img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" />
 <img align="left" alt="Gradle" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/12/Gradle_logo_02-324x400.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://wpress-cursus.nl/wp-content/uploads/2017/02/wordpress-logo-min.png" />
 
 <br />
 <br />
