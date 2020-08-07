@@ -48,9 +48,11 @@
 
 ---
 
-<!--### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 [![Nebula's github stats](https://github-readme-stats.vercel.app/api?username=itsnebulalol)](https://github.com/anuraghazra/github-readme-stats)
 
