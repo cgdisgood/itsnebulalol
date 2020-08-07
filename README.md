@@ -9,7 +9,9 @@
 ### My stuff:
 
 [<img align="left" alt="nebulayt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="theicemc.xyz" width="22px" src="https://nebulayt.xyz/theice.png" />][youtube]
 [<img align="left" alt="Nebula | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="itsnebulalol | Twitch" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3408e21-ecbb-4476-8e3b-ae5a845eb414/d9djk9s-3566ad4f-38d7-4721-a732-78e1f7246a7f.png/v1/fill/w_894,h_894,q_75,strp/logo_twitch_iosversion_by_akiruuu-d9djk9s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzQwOGUyMS1lY2JiLTQ0NzYtOGUzYi1hZTVhODQ1ZWI0MTQvZDlkams5cy0zNTY2YWQ0Zi0zOGQ3LTQ3MjEtYTczMi03OGUxZjcyNDZhN2YucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.Ij5_B7I3IffFzcK5WQLkTKTHJeK8Vb7kemkbGqhWCBk" />][twitch]
 
 <br />
 
@@ -53,7 +55,9 @@
 [![Nebula's github stats](https://github-readme-stats.vercel.app/api?username=itsnebulalol)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://nebulayt.xyz
+[minecraft]: https://theicemc.xyz
 [youtube]: https://www.youtube.com/channel/UCE86Qx7We3sZjgqMrX2yfyg
+[twitch]: https://twitch.tv/itsnebulalol
 
 <!--
 **itsnebulalol/itsnebulalol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
