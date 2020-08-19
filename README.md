@@ -1,10 +1,11 @@
 ### Hi there, I'm [Nebula][youtube]! 👋
 
 ## I'm a YouTuber, Gamer, and Developer!
-- 🔭 I’m currently working on Cobalt Minecraft Client
-- 🌱 I’m currently learning Java, Unity, and more!
-- 🤔 I’m trying to make good GUIs in Minecraft Coder Pack
-- ⚡ Fun fact: I like to play guitar!
+
+-   🔭 I’m currently working on Cobalt Minecraft Client
+-   🌱 I’m currently learning Java, Unity, and more!
+-   🤔 I’m trying to make good GUIs in Minecraft Coder Pack
+-   ⚡ Fun fact: I like to play guitar!
 
 ### My stuff:
 
@@ -38,21 +39,32 @@
 
 ---
 
-### <img align="left" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />Latest YouTube Videos
+### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
-- [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
-- [Add Dot Commands to your Minecraft Client](https://www.youtube.com/watch?v=wdsxKPLpoL4)
-- [Patch Windows for Theming (Happy 2020!)](https://www.youtube.com/watch?v=2G6f3gh9K0M)
-- [Clean Up Windows 10 With Disk Cleaner! (Built-In Tool)](https://www.youtube.com/watch?v=tECtUfEBUQo)
-- [Discord's Got Talent **GONE WRONG**](https://www.youtube.com/watch?v=UE7NvunB1oc)
+
+-   [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
+-   [Add Dot Commands to your Minecraft Client](https://www.youtube.com/watch?v=wdsxKPLpoL4)
+-   [Patch Windows for Theming (Happy 2020!)](https://www.youtube.com/watch?v=2G6f3gh9K0M)
+-   [Clean Up Windows 10 With Disk Cleaner! (Built-In Tool)](https://www.youtube.com/watch?v=tECtUfEBUQo)
+-   [Discord's Got Talent **GONE WRONG**](https://www.youtube.com/watch?v=UE7NvunB1oc)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Can You Make Your Own Minecraft Client?](https://nebulayt.xyz/index.php/2020/08/07/can-you-make-your-own-minecraft-client/)
+
+-   [Can You Make Your Own Minecraft Client?](https://nebulayt.xyz/index.php/2020/08/07/can-you-make-your-own-minecraft-client/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📊 What I've Been Working On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
