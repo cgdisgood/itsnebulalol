@@ -42,12 +42,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
--   [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
--   [Add Dot Commands to your Minecraft Client](https://www.youtube.com/watch?v=wdsxKPLpoL4)
--   [Patch Windows for Theming (Happy 2020!)](https://www.youtube.com/watch?v=2G6f3gh9K0M)
--   [Clean Up Windows 10 With Disk Cleaner! (Built-In Tool)](https://www.youtube.com/watch?v=tECtUfEBUQo)
--   [Discord's Got Talent **GONE WRONG**](https://www.youtube.com/watch?v=UE7NvunB1oc)
+- [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
+- [Add Dot Commands to your Minecraft Client](https://www.youtube.com/watch?v=wdsxKPLpoL4)
+- [Patch Windows for Theming (Happy 2020!)](https://www.youtube.com/watch?v=2G6f3gh9K0M)
+- [Clean Up Windows 10 With Disk Cleaner! (Built-In Tool)](https://www.youtube.com/watch?v=tECtUfEBUQo)
+- [Discord's Got Talent **GONE WRONG**](https://www.youtube.com/watch?v=UE7NvunB1oc)
 <!-- YOUTUBE:END -->
 
 ---
