@@ -63,7 +63,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java       44 mins         ██████████████░░░░░░░░░░░   55.44 % 
+Markdown   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Groovy     12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+JSON       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+XML        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 <!--END_SECTION:waka-->
 
