@@ -39,7 +39,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺  Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
@@ -51,7 +51,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Can You Make Your Own Minecraft Client?](https://nebulayt.xyz/index.php/2020/08/07/can-you-make-your-own-minecraft-client/)
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 What I've Been Working On
+### 📊  What I've Been Working On
 
 <!--START_SECTION:waka-->
 ```text
