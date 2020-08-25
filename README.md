@@ -46,6 +46,8 @@
 - [Discord's Got Talent **GONE WRONG**](https://www.youtube.com/watch?v=UE7NvunB1oc)
 <!-- YOUTUBE:END -->
 
+➡️ [more videos...][youtube]
+
 ---
 
 ### 📕  Latest Blog Posts
@@ -53,6 +55,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Can You Make Your Own Minecraft Client?](https://nebulayt.xyz/index.php/2020/08/07/can-you-make-your-own-minecraft-client/)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more posts...][website]
 
 ---
 
