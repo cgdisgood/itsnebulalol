@@ -71,7 +71,7 @@ JavaScript   25 mins         █▓░░░░░░░░░░░░░░░
 
 ---
 
-[![Nebula's github stats](https://https://github-readme-stats.itsnebulalol.vercel.app/api?username=itsnebulalol)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Nebula's Github Stats" src="https://https://github-readme-stats.itsnebulalol.vercel.app/api?username=itsnebulalol&show_icons=true&hide_border=true" />
 
 [website]: https://nebulayt.xyz
 [minecraft]: https://theicemc.xyz
