@@ -1,5 +1,9 @@
 ### Hi there, I'm [Nebula][youtube]! 👋
 
+![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch)
+
+<br />
+
 [<img align="left" alt="nebulayt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="theicemc.xyz" width="22px" src="https://nebulayt.xyz/theice.png" />][minecraft]
 [<img align="left" alt="Nebula | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
