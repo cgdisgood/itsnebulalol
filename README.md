@@ -71,7 +71,18 @@ JavaScript   25 mins         █▓░░░░░░░░░░░░░░░
 
 ---
 
-<img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api?username=itsnebulalol&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api?username=itsnebulalol&show_icons=true&hide_border=true" />
+</details>
+
+<details>
+  <summary>:zap: GitHub Activity</summary>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
 [website]: https://nebulayt.xyz
 [minecraft]: https://theicemc.xyz
