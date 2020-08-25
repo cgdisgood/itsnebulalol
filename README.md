@@ -33,7 +33,6 @@
 <img align="left" alt="Wordpress" width="26px" src="https://wpress-cursus.nl/wp-content/uploads/2017/02/wordpress-logo-min.png" />
 
 <br />
-<br />
 
 ---
 
