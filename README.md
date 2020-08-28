@@ -1,8 +1,7 @@
 ### Hi there, I'm [Nebula][youtube]! 👋
 
-![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch)
-![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz)
-![Visits Badge](https://badges.pufler.dev/visits/itsnebulalol/itsnebulalol)
+![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)
+![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz&style=flat-square)
 
 [<img align="left" alt="nebulayt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="theicemc.xyz" width="22px" src="https://nebulayt.xyz/theice.png" />][minecraft]
@@ -100,18 +99,3 @@ Other        17 mins         █▒░░░░░░░░░░░░░░░
 [minecraft]: https://theicemc.xyz
 [youtube]: https://www.youtube.com/channel/UCE86Qx7We3sZjgqMrX2yfyg
 [twitch]: https://twitch.tv/itsnebulalol
-
-<!--
-**itsnebulalol/itsnebulalol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
