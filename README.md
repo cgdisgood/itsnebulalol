@@ -1,7 +1,8 @@
 ### Hi there, I'm [Nebula][youtube]! 👋
 
-![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)
-![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz&style=flat-square)
+[![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol)
+[![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz&style=flat-square)][website]
+[![Visits](https://badges.pufler.dev/visits/itsnebulalol/itsnebulalol?logo=GitHub&label=github%20visits&color=#2088FF&logoColor=white&style=flat-square)](https://github.com/itsnebulalol)
 
 [<img align="left" alt="nebulayt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="theicemc.xyz" width="22px" src="https://nebulayt.xyz/theice.png" />][minecraft]
