@@ -2,7 +2,7 @@
 
 ![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch)
 ![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz)
-![Visits Badge](https://badges.pufler.dev/visits/itsnebulalol/itsnebulalol)](https://badges.pufler.dev)
+![Visits Badge](https://badges.pufler.dev/visits/itsnebulalol/itsnebulalol)
 
 [<img align="left" alt="nebulayt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="theicemc.xyz" width="22px" src="https://nebulayt.xyz/theice.png" />][minecraft]
