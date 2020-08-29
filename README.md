@@ -92,7 +92,7 @@ Other        17 mins         █▒░░░░░░░░░░░░░░░
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#90](https://github.com//anmol098/waka-readme-stats/issues/90) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+1. 🗣 Commented on [#90](https://github.com//anmol098/waka-readme-stats/issues/90) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
   <!--END_SECTION:activity-->
   
 </details>
