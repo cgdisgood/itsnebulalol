@@ -18,7 +18,7 @@
 -   🤔 I’m trying to make good GUIs in Minecraft Coder Pack
 -   ⚡ Fun fact: I like to play guitar!
 
-### Languages and Tools:
+**Languages and Tools:**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 📺  Latest YouTube Videos
+📺 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
 - [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
@@ -55,7 +55,7 @@
 
 ---
 
-### 📕  Latest Blog Posts
+📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [Can You Make Your Own Minecraft Client?](https://nebulayt.xyz/index.php/2020/08/07/can-you-make-your-own-minecraft-client/)
@@ -64,8 +64,6 @@
 ➡️ [more posts...][website]
 
 ---
-
-### 📊  What I've Been Working On
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
