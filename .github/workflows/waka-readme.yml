@@ -20,4 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHOET_INFO: "False"
+          SHOW_SHORT_INFO: "False"
