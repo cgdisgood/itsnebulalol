@@ -1,4 +1,4 @@
-### Hi there, I'm [Nebula][youtube]! 👋
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm [Nebula][youtube]!<!-- 👋 -->
 
 [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol)
 [![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz&style=flat-square)][website]
