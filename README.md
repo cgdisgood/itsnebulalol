@@ -107,7 +107,8 @@ Windows                  1 hr 24 mins        ███████████�
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api?username=itsnebulalol&show_icons=true&hide_border=true" />
+<img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api/top-langs/?username=itsnebulalol&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Nebula's Github Stats" src="https://github-readme-stats.itsnebulalol.vercel.app/api?username=itsnebulalol&show_icons=true&hide_border=true&theme=radical" />
   
 </details>
 
