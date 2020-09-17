@@ -115,7 +115,7 @@ Windows                  1 hr 19 mins        ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com//anmol098/waka-readme-stats/issues/90) in [anmol098/waka-readme-stats](https://github.com//anmol098/waka-readme-stats)
+1. 🗣 Commented on [#18](https://github.com//Ic0vid/Apollo/issues/18) in [Ic0vid/Apollo](https://github.com//Ic0vid/Apollo)
   <!--END_SECTION:activity-->
   
 </details>
