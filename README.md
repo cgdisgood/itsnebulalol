@@ -115,7 +115,7 @@ Windows                  2 hrs 3 mins        ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com//Ic0vid/Apollo/pull/19) in [Ic0vid/Apollo](https://github.com//Ic0vid/Apollo)
+1. 🗣 Commented on [#20](https://github.com//Ic0vid/Apollo/issues/20) in [Ic0vid/Apollo](https://github.com//Ic0vid/Apollo)
   <!--END_SECTION:activity-->
   
 </details>
