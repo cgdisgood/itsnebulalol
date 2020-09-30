@@ -117,7 +117,7 @@ Windows                  2 hrs 8 mins        ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/anmol098/waka-readme-stats/issues/107) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🗣 Commented on [#108](https://github.com/anmol098/waka-readme-stats/issues/108) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
   <!--END_SECTION:activity-->
   
 </details>
