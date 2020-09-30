@@ -96,10 +96,6 @@ Windows                  2 hrs 8 mins        ███████████�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://github.com/itsnebulalol/itsnebulalol/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
