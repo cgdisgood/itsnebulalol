@@ -113,7 +113,7 @@ Windows                  3 hrs 37 mins       ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/anmol098/waka-readme-stats/issues/107) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🗣 Commented on [#1](https://github.com/Frostyhq/Overlord-Anticheat-/issues/1) in [Frostyhq/Overlord-Anticheat-](https://github.com/Frostyhq/Overlord-Anticheat-)
   <!--END_SECTION:activity-->
   
 </details>
