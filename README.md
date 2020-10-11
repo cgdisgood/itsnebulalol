@@ -10,13 +10,29 @@
 [<img align="left" alt="itsnebulalol | Twitch" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3408e21-ecbb-4476-8e3b-ae5a845eb414/d9djk9s-3566ad4f-38d7-4721-a732-78e1f7246a7f.png/v1/fill/w_894,h_894,q_75,strp/logo_twitch_iosversion_by_akiruuu-d9djk9s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzQwOGUyMS1lY2JiLTQ0NzYtOGUzYi1hZTVhODQ1ZWI0MTQvZDlkams5cy0zNTY2YWQ0Zi0zOGQ3LTQ3MjEtYTczMi03OGUxZjcyNDZhN2YucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.Ij5_B7I3IffFzcK5WQLkTKTHJeK8Vb7kemkbGqhWCBk" />][twitch]
 
 <br />
+<!--## I'm a YouTuber, Gamer, and Developer!-->
 
-## I'm a YouTuber, Gamer, and Developer!
-
--   🔭 I’m currently working on Cobalt Minecraft Client
+```java
+public class Nebula extends Person implements YouTuber, Gamer, Developer {
+    
+    @Override
+    public void aboutMe() {
+        public static String funFact = "I like to play guitar";
+    }
+    
+    @Override
+    public void codingStuff() {
+        public static String[] workingOn = ["Cobalt Client", "", ""];
+        public static String[] learning = ["Java", "Unity", "Discord.JS"];
+        public static String tryingTo = "Make good GUIs in Minecraft Clients / Mods";
+    }
+    
+}
+```
+<!---   🔭 I’m currently working on Cobalt Minecraft Client
 -   🌱 I’m currently learning Java, Unity, and more!
 -   🤔 I’m trying to make good GUIs in Minecraft Coder Pack
--   ⚡ Fun fact: I like to play guitar!
+-   ⚡ Fun fact: I like to play guitar!-->
 
 **Languages and Tools:**
 
