@@ -11,7 +11,6 @@
 
 <br />
 <!--## I'm a YouTuber, Gamer, and Developer!-->
-<br />
 ```java
 public class Nebula extends Person implements YouTuber, Gamer, Developer {
     
