@@ -18,14 +18,14 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
     
     @Override
     public void aboutMe() {
-        public static String funFact = "I like to play guitar";
+        public String funFact = "I like to play guitar";
     }
     
     @Override
     public void codingStuff() {
-        public static String[] workingOn = ["Cobalt Client", "", ""];
-        public static String[] learning = ["Java", "Unity", "Discord.JS"];
-        public static String tryingTo = "Make good GUIs in Minecraft Clients / Mods";
+        public String[] workingOn = ["Cobalt Client", "code-folder-generator-js '[GitHub](https://github.com/itsnebulalol/code-folder-generator-js)'"];
+        public String[] learning = ["Java", "Unity", "Discord.JS"];
+        public String tryingTo = "Make good GUIs in Minecraft Clients / Mods";
     }
     
 }
