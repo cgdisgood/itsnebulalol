@@ -129,7 +129,7 @@ Windows                  8 mins              ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Frostyhq/Overlord-Anticheat-/issues/1) in [Frostyhq/Overlord-Anticheat-](https://github.com/Frostyhq/Overlord-Anticheat-)
+1. 💪 Opened PR [#2](https://github.com/MatthewTGM/hypixel-bot/pull/2) in [MatthewTGM/hypixel-bot](https://github.com/MatthewTGM/hypixel-bot)
   <!--END_SECTION:activity-->
   
 </details>
