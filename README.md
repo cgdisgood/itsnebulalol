@@ -23,7 +23,7 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
     
     @Override
     public void codingStuff() {
-        public String[] workingOn = ["Cobalt Client", "code-folder-generator-js '[GitHub](https://github.com/itsnebulalol/code-folder-generator-js)'"];
+        public String[] workingOn = ["Cobalt Client", "code-folder-generator-js"];
         public String[] learning = ["Java", "Unity", "Discord.JS"];
         public String tryingTo = "Make good GUIs in Minecraft Clients / Mods";
     }
