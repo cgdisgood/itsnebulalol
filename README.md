@@ -129,7 +129,7 @@ Windows                  1 hr 40 mins        ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Frostyhq/Overlord-Anticheat-/issues/1) in [Frostyhq/Overlord-Anticheat-](https://github.com/Frostyhq/Overlord-Anticheat-)
+1. 💪 Opened PR [#16](https://github.com/egold555/SupportServerModerationBot/pull/16) in [egold555/SupportServerModerationBot](https://github.com/egold555/SupportServerModerationBot)
   <!--END_SECTION:activity-->
   
 </details>
