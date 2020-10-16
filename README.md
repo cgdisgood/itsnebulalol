@@ -130,7 +130,7 @@ Windows                  2 hrs 30 mins       ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/GopineClient/gopine-client/issues/1) in [GopineClient/gopine-client](https://github.com/GopineClient/gopine-client)
+1. 💪 Opened PR [#62](https://github.com/Ic0vid/apollo/pull/62) in [Ic0vid/apollo](https://github.com/Ic0vid/apollo)
   <!--END_SECTION:activity-->
   
 </details>
