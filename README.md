@@ -70,16 +70,12 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 
 ➡️ [more videos...][youtube]
 
-<!--
-
-📕 **Latest Blog Posts**
+<!--📕 **Latest Blog Posts**-->
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Install Git](https://nebulayt.xyz/index.php/2020/08/31/how-to-install-git/)
-- [Can You Make Your Own Minecraft Client?](https://nebulayt.xyz/index.php/2020/08/07/can-you-make-your-own-minecraft-client/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more posts...][website]-->
+<!--➡️ [more posts...][website]-->
 
 ---
 
