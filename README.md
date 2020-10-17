@@ -70,7 +70,7 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 
 ➡️ [more videos...][youtube]
 
----
+<!--
 
 📕 **Latest Blog Posts**
 
@@ -79,7 +79,7 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 - [Can You Make Your Own Minecraft Client?](https://nebulayt.xyz/index.php/2020/08/07/can-you-make-your-own-minecraft-client/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more posts...][website]
+➡️ [more posts...][website]-->
 
 ---
 
@@ -128,7 +128,7 @@ Windows                  4 hrs 7 mins        ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/GopineClient/gopine-client/pull/3) in [GopineClient/gopine-client](https://github.com/GopineClient/gopine-client)
+1. 💪 Opened PR [#62](https://github.com/Ic0vid/apollo/pull/62) in [Ic0vid/apollo](https://github.com/Ic0vid/apollo)
   <!--END_SECTION:activity-->
   
 </details>
