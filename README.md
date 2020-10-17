@@ -124,7 +124,7 @@ Windows                  4 hrs 7 mins        ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/GopineClient/gopine-client/pull/3) in [GopineClient/gopine-client](https://github.com/GopineClient/gopine-client)
+1. 💪 Opened PR [#709](https://github.com/Cullyege/Hacktoberfest2020/pull/709) in [Cullyege/Hacktoberfest2020](https://github.com/Cullyege/Hacktoberfest2020)
   <!--END_SECTION:activity-->
   
 </details>
