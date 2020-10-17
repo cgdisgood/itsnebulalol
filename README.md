@@ -128,7 +128,7 @@ Windows                  4 hrs 7 mins        ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/Ic0vid/apollo/pull/62) in [Ic0vid/apollo](https://github.com/Ic0vid/apollo)
+1. 💪 Opened PR [#3](https://github.com/GopineClient/gopine-client/pull/3) in [GopineClient/gopine-client](https://github.com/GopineClient/gopine-client)
   <!--END_SECTION:activity-->
   
 </details>
