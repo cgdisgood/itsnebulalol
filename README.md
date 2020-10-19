@@ -124,7 +124,7 @@ Windows                  5 hrs 54 mins       ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/GopineClient/gopine-client/pull/4) in [GopineClient/gopine-client](https://github.com/GopineClient/gopine-client)
+1. 🗣 Commented on [#1](https://github.com/Frostyhq/Overlord-Anticheat-/issues/1) in [Frostyhq/Overlord-Anticheat-](https://github.com/Frostyhq/Overlord-Anticheat-)
   <!--END_SECTION:activity-->
   
 </details>
