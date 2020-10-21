@@ -124,7 +124,7 @@ Windows                  7 hrs 58 mins       ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Frostyhq/Overlord-Anticheat-/issues/1) in [Frostyhq/Overlord-Anticheat-](https://github.com/Frostyhq/Overlord-Anticheat-)
+1. ❗️ Opened issue [#1](https://github.com/HyptexPvP/AuthApp/issues/1) in [HyptexPvP/AuthApp](https://github.com/HyptexPvP/AuthApp)
   <!--END_SECTION:activity-->
   
 </details>
