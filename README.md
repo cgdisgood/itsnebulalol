@@ -124,7 +124,7 @@ Windows                  7 hrs 51 mins       ███████████�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/HyptexPvP/AuthApp/issues/1) in [HyptexPvP/AuthApp](https://github.com/HyptexPvP/AuthApp)
+1. ❗️ Closed issue [#1](https://github.com/HyptexPvP/AuthApp/issues/1) in [HyptexPvP/AuthApp](https://github.com/HyptexPvP/AuthApp)
   <!--END_SECTION:activity-->
   
 </details>
