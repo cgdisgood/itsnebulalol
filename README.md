@@ -61,7 +61,7 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 📺 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
-- [Minecraft, but you have to stay on the same Y level | Challenge](https://www.youtube.com/watch?v=UtcsbwhsWH8)
+- [Minecraft, but you have to stay on the same Y level | Challenge](https://www.youtube.com/watch?v=LKX6_omq3f4)
 - [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
 - [Add Dot Commands to your Minecraft Client](https://www.youtube.com/watch?v=wdsxKPLpoL4)
 - [Patch Windows for Theming (Happy 2020!)](https://www.youtube.com/watch?v=2G6f3gh9K0M)
