@@ -86,16 +86,18 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 3 mins         ████████████████████████░   98.5% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 4 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+darks-utilities          1 hr 4 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 4 mins         █████████████████████████   100.0%
 
 ```
 
