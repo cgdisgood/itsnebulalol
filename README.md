@@ -132,6 +132,7 @@ Windows                  4 hrs 35 mins       ███████████�
 </details>
 
 [website]: https://nebulayt.xyz
+[arcwebsite]: https://arcmc.cf
 [minecraft]: https://theicemc.xyz
 [youtube]: https://www.youtube.com/channel/UCE86Qx7We3sZjgqMrX2yfyg
 [twitch]: https://twitch.tv/itsnebulalol
