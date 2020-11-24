@@ -2,6 +2,7 @@
 
 [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol)
 [![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz&style=flat-square)][website]
+[![Arc Website](https://img.shields.io/website?label=arcmc.cf&url=https%3A%2F%2Farcmc.cf&style=flat-square)][arcwebsite]
 [![Visits](https://badges.pufler.dev/visits/itsnebulalol/itsnebulalol?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/itsnebulalol)
 
 [<img align="left" alt="nebulayt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -23,8 +24,8 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
     
     @Override
     public void codingStuff() {
-        public String[] workingOn = ["Cobalt Client", "code-folder-generator-js", "nebulayt.xyz"];
-        public String[] learning = ["Java", "Unity", "Discord.JS"];
+        public String[] workingOn = ["Arc", "Cobalt Client", "code-folder-generator", "nebulayt.xyz"];
+        public String[] learning = ["Java", "Discord.JS", "Jekyll/Liquid"];
         public String tryingTo = "Make good GUIs in Minecraft Clients / Mods";
     }
     
