@@ -127,7 +127,7 @@ Windows                  1 hr 27 mins        █████████░░�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#709](https://github.com/Cullyege/Hacktoberfest2020/pull/709) in [Cullyege/Hacktoberfest2020](https://github.com/Cullyege/Hacktoberfest2020)
+1. 💪 Opened PR [#19](https://github.com/egold555/SupportServerModerationBot/pull/19) in [egold555/SupportServerModerationBot](https://github.com/egold555/SupportServerModerationBot)
   <!--END_SECTION:activity-->
   
 </details>
