@@ -128,7 +128,7 @@ Mac                      0 secs              ░░░░░░░░░░░�
   <summary>:zap: GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/CobaltClient/cobaltclient/issues/3) in [CobaltClient/cobaltclient](https://github.com/CobaltClient/cobaltclient)
+1. 🗣 Commented on [#3](https://github.com/CobaltClient/cobaltclient/issues/3) in [CobaltClient/cobaltclient](https://github.com/CobaltClient/cobaltclient)
   <!--END_SECTION:activity-->
   
 </details>
