@@ -59,6 +59,10 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 
 ---
 
+[![Spotify](https://spotify-readme-ga7vr4hox.vercel.app/api/spotify)](https://open.spotify.com/user/ednl3jpgrarpezv89mu6hhn2n)
+
+---
+
 📺 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
