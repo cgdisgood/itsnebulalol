@@ -43,24 +43,18 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 <img align="left" alt="Affinity Designer" width="26px" src="https://simpleicons.org/icons/affinitydesigner.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Unity" width="26px" src="https://gallery.leapmotion.com/wp-content/uploads/2016/12/unity-logo.png" />
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
 <img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" />
-<img align="left" alt="Gradle" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/12/Gradle_logo_02-324x400.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://wpress-cursus.nl/wp-content/uploads/2017/02/wordpress-logo-min.png" />
 
 <br />
 
 ---
 
 [![Spotify](https://spotify-readme-ga7vr4hox.vercel.app/api/spotify)](https://open.spotify.com/user/ednl3jpgrarpezv89mu6hhn2n)
-
 ---
 
 📺 **Latest YouTube Videos**
