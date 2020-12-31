@@ -27,6 +27,7 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
     }
 }
 ```
+
 <!-- 
 **Languages and Tools:**
 
@@ -40,7 +41,8 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Unity" width="26px" src="https://gallery.leapmotion.com/wp-content/uploads/2016/12/unity-logo.png" />
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
-<img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> -->
+<img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> 
+-->
 
 <br />
 
