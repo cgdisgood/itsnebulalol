@@ -1,11 +1,10 @@
 <div align="center">
 
-![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
 [![Website](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=arcmc.cf&style=for-the-badge&up_message=online&url=https%3A%2F%2Farcmc.cf)][arcwebsite]
 [![Website](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=nebulayt.xyz&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnebulayt.xyz)][website]
 [![GitHub followers](https://img.shields.io/github/followers/itsnebulalol?logo=github&style=for-the-badge)](https://github.com/itsnebulalol)
 [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/itsnebulalol)
-![Powered by Black Magic](https://img.shields.io/static/v1?label=Powered%20By&message=Black%20Magic&color=black&style=for-the-badge&logo=github-sponsers)
+![Powered by Black Magic](https://img.shields.io/static/v1?label=Powered%20By&message=Black%20Magic&color=black&style=for-the-badge&logo=github-sponsors)
 ![Contains Tasty Spaghetti Code](https://img.shields.io/static/v1?label=Contains&message=Tasty%20Spaghetti%20Code&color=yellow&style=for-the-badge&logo=visual-studio-code)
 </div>
 
