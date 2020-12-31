@@ -6,10 +6,9 @@
 [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?logo=twitch&logoColor=white&style=for-the-badge)][twitch]
 ![Powered by Black Magic](https://img.shields.io/static/v1?label=Powered%20By&message=Black%20Magic&color=black&style=for-the-badge&logo=github-sponsors&logoColor=white)
 ![Contains Tasty Spaghetti Code](https://img.shields.io/static/v1?label=Contains&message=Tasty%20Spaghetti%20Code&color=yellow&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.youtube.com/nebulalol">Nebula</a>!</h1>
 </div>
-<h1 align="center">Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.youtube.com/channel/UCE86Qx7We3sZjgqMrX2yfyg">Nebula</a>!</h1><!-- 👋 -->
 
-<br />
 <br />
 
 ```java
@@ -43,8 +42,6 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
 <img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> 
 -->
-
-<br />
 
 ---
 
