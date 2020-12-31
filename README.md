@@ -1,14 +1,24 @@
+<div align="center">
+	![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
+	[![Website](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=arcmc.cf&style=for-the-badge&up_message=online&url=https%3A%2F%2Farcmc.cf)][arcwebsite]
+	[![Website](https://img.shields.io/website?logo=google-chrome&logoColor=white&down_color=red&down_message=offline&label=nebulayt.xyz&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnebulayt.xyz)][website]
+	[![GitHub followers](https://img.shields.io/github/followers/itsnebulalol?logo=github&style=for-the-badge)](https://github.com/itsnebulalol)
+	[![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/itsnebulalol)
+	![Powered by Black Magic](https://img.shields.io/static/v1?label=Powered%20By&message=Black%20Magic&color=black&style=for-the-badge&logo=github-sponsers)
+	![Contains Tasty Spaghetti Code](https://img.shields.io/static/v1?label=Contains&message=Tasty%20Spaghetti%20Code&color=yellow&style=for-the-badge&logo=visual-studio-code)
+</div>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm <a href="https://www.youtube.com/channel/UCE86Qx7We3sZjgqMrX2yfyg">Nebula</a>!</h1><!-- 👋 -->
 
-[![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol)
+<!-- [![Twitch Status](https://img.shields.io/twitch/status/itsnebulalol?color=%239146FF&logo=twitch&style=flat-square)](https://twitch.tv/itsnebulalol)
 [![Website](https://img.shields.io/website?label=nebulayt.xyz&url=https%3A%2F%2Fnebulayt.xyz&style=flat-square)][website]
 [![Arc Website](https://img.shields.io/website?label=arcmc.cf&url=https%3A%2F%2Farcmc.cf&style=flat-square)][arcwebsite]
 [![Visits](https://badges.pufler.dev/visits/itsnebulalol/itsnebulalol?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/itsnebulalol)
 
 [<img align="left" alt="nebulayt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="theicemc.xyz" width="22px" src="images/theice.png" />][minecraft]
+[<img align="left" alt="theicemc.xyz" width="22px" src="images/theice.png" />][minecraft] -->
 [<img align="left" alt="Nebula | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="itsnebulalol | Twitch" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3408e21-ecbb-4476-8e3b-ae5a845eb414/d9djk9s-3566ad4f-38d7-4721-a732-78e1f7246a7f.png/v1/fill/w_894,h_894,q_75,strp/logo_twitch_iosversion_by_akiruuu-d9djk9s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzQwOGUyMS1lY2JiLTQ0NzYtOGUzYi1hZTVhODQ1ZWI0MTQvZDlkams5cy0zNTY2YWQ0Zi0zOGQ3LTQ3MjEtYTczMi03OGUxZjcyNDZhN2YucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.Ij5_B7I3IffFzcK5WQLkTKTHJeK8Vb7kemkbGqhWCBk" />][twitch]
+<!-- [<img align="left" alt="itsnebulalol | Twitch" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3408e21-ecbb-4476-8e3b-ae5a845eb414/d9djk9s-3566ad4f-38d7-4721-a732-78e1f7246a7f.png/v1/fill/w_894,h_894,q_75,strp/logo_twitch_iosversion_by_akiruuu-d9djk9s.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMzQwOGUyMS1lY2JiLTQ0NzYtOGUzYi1hZTVhODQ1ZWI0MTQvZDlkams5cy0zNTY2YWQ0Zi0zOGQ3LTQ3MjEtYTczMi03OGUxZjcyNDZhN2YucG5nIiwid2lkdGgiOiI8PTg5NCIsImhlaWdodCI6Ijw9ODk0In1dXX0.Ij5_B7I3IffFzcK5WQLkTKTHJeK8Vb7kemkbGqhWCBk" />][twitch] -->
 
 <br />
 <!--## I'm a YouTuber, Gamer, and Developer!-->
