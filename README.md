@@ -7,6 +7,7 @@
 ![Powered by Black Magic](https://img.shields.io/static/v1?label=Powered%20By&message=Black%20Magic&color=black&style=for-the-badge&logo=github-sponsors&logoColor=white)
 ![Contains Tasty Spaghetti Code](https://img.shields.io/static/v1?label=Contains&message=Tasty%20Spaghetti%20Code&color=yellow&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![It Works, Somehow](https://img.shields.io/static/v1?label=It%20Works&message=Somehow&color=green&style=for-the-badge&logo=broadcom&logoColor=white)
+[![YouTube subscribers](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCE86Qx7We3sZjgqMrX2yfyg&key=AIzaSyBcdVkXgfoIy4k3QyG9dyib9kFqCEytWuI&style=for-the-badge&color=red&labelColor=ce4630)][youtube]
 <h1>Hi <img src="images/Hi.gif" width="40px" />, I'm <a href="https://www.youtube.com/nebulalol">Nebula</a>!</h1>
 </div>
 
