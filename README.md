@@ -117,7 +117,7 @@ Windows                  2 hrs 46 mins       ███████████�
   	<summary>:zap: GitHub Activity</summary>
 
   	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/CobaltClient/cobaltclient/issues/3) in [CobaltClient/cobaltclient](https://github.com/CobaltClient/cobaltclient)
+1. 🗣 Commented on [#1](https://github.com/hwittenborn/Juice/issues/1) in [hwittenborn/Juice](https://github.com/hwittenborn/Juice)
   	<!--END_SECTION:activity-->
   
 </details>
