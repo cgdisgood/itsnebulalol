@@ -117,7 +117,7 @@ Windows                  2 hrs 9 mins        ███████████�
   	<summary>:zap: GitHub Activity</summary>
 
   	<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hwittenborn/Juice/issues/1) in [hwittenborn/Juice](https://github.com/hwittenborn/Juice)
+1. 💪 Opened PR [#1](https://github.com/Oppyusa/OppyClient-Utils/pull/1) in [Oppyusa/OppyClient-Utils](https://github.com/Oppyusa/OppyClient-Utils)
   	<!--END_SECTION:activity-->
   
 </details>
