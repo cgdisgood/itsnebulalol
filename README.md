@@ -111,7 +111,7 @@ Windows                  28 mins             ███████████�
   	<summary>:zap: GitHub Activity</summary>
 
   	<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Oppyusa/OppyClient-Utils/pull/1) in [Oppyusa/OppyClient-Utils](https://github.com/Oppyusa/OppyClient-Utils)
+1. 💪 Opened PR [#9](https://github.com/SorusClient/Sorus-Client/pull/9) in [SorusClient/Sorus-Client](https://github.com/SorusClient/Sorus-Client)
   	<!--END_SECTION:activity-->
   
 </details>
