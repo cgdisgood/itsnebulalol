@@ -114,7 +114,7 @@ Windows                  1 hr 45 mins        ███████████�
   	<summary>:zap: GitHub Activity</summary>
 
   	<!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/SorusClient/Sorus-Client/pull/9) in [SorusClient/Sorus-Client](https://github.com/SorusClient/Sorus-Client)
+1. 🗣 Commented on [#9](https://github.com/SorusClient/Sorus-Client/issues/9) in [SorusClient/Sorus-Client](https://github.com/SorusClient/Sorus-Client)
   	<!--END_SECTION:activity-->
   
 </details>
