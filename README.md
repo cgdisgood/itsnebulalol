@@ -52,11 +52,11 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 📺 **Latest YouTube Videos**
 
 <!-- YOUTUBE:START -->
+- [Render Test (23CQ, 400FPS, 720p Upscaled) | Minecraft](https://www.youtube.com/watch?v=0qUaJjWQaPY)
 - [Amazon Fire Tablet Turned into “Stock” Android | #Shorts](https://www.youtube.com/watch?v=x1BaWAyy45Y)
 - [Mine Diamonds Parody but it's 500% louder](https://www.youtube.com/watch?v=ARJQsNlDoOE)
 - [Minecraft, but you have to stay on the same Y level | Challenge](https://www.youtube.com/watch?v=LKX6_omq3f4)
 - [why mspaint is best](https://www.youtube.com/watch?v=I1EUctrbNMU)
-- [Add Dot Commands to your Minecraft Client](https://www.youtube.com/watch?v=wdsxKPLpoL4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
