@@ -77,19 +77,16 @@ public class Nebula extends Person implements YouTuber, Gamer, Developer {
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Groovy                   7 mins              █████████████████░░░░░░░░   71.27% 
-Java                     2 mins              ███████░░░░░░░░░░░░░░░░░░   28.73%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GopineClient             7 mins              █████████████████░░░░░░░░   71.35% 
-Sorus-Client-4925d22cd8992 mins              ███████░░░░░░░░░░░░░░░░░░   28.65% 
-gopine-client-old        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
