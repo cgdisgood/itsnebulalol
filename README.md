@@ -113,7 +113,7 @@ Windows                  58 mins             ███████████�
   	<summary>:zap: GitHub Activity</summary>
 
   	<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/itsnebulalol/code-folder-generator/pull/2) in [itsnebulalol/code-folder-generator](https://github.com/itsnebulalol/code-folder-generator)
+1. 💪 Opened PR [#569](https://github.com/is-a-dev/register/pull/569) in [is-a-dev/register](https://github.com/is-a-dev/register)
   	<!--END_SECTION:activity-->
   
 </details>
