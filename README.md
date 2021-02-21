@@ -114,7 +114,7 @@ Windows                  2 hrs 17 mins       ███████████�
   	<summary>:zap: GitHub Activity</summary>
 
   	<!--START_SECTION:activity-->
-1. 💪 Opened PR [#569](https://github.com/is-a-dev/register/pull/569) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❗️ Closed issue [#4](https://github.com/CobaltClient/cobaltclient/issues/4) in [CobaltClient/cobaltclient](https://github.com/CobaltClient/cobaltclient)
   	<!--END_SECTION:activity-->
   
 </details>
